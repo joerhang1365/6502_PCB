@@ -3,4 +3,5 @@
   (lib (name "W65C02S")(type "KiCad")(uri "${KIPRJMOD}/W65C02S.kicad_sym")(options "")(descr ""))
   (lib (name "HD44780U")(type "KiCad")(uri "${KIPRJMOD}/HD44780U.kicad_sym")(options "")(descr ""))
   (lib (name "HD44780")(type "KiCad")(uri "${KIPRJMOD}/HD44780.kicad_sym")(options "")(descr ""))
+  (lib (name "65xx")(type "Legacy")(uri "/home/joer/Downloads/65xx_Library-master/KiCad/65xx.lib")(options "")(descr ""))
 )
